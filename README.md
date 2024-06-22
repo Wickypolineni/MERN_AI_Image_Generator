@@ -15,8 +15,8 @@ In order to build this you must have git installed. Paste the following command 
 Alternatively you can download the code as a .zip file and extract it.
 
 ```git
-git clone https://github.com/JesseKartabani/ai-image-gen.git
-cd ai-image-gen
+clone the repo
+cd MERN_AI_Image_Generation
 npm install
 ```
 
